@@ -1,0 +1,4 @@
+set a 79
+jnz a 5
+mul a 100
+sub a -17000
